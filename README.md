@@ -10,7 +10,4 @@ I´m Sandra, former Store Manger in Retail. I started studying Front-end develop
 **Sandrajasmin/Sandrajasmin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
-
-
 -->
