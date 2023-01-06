@@ -1,4 +1,4 @@
-### Hi there 👋
+<img src="https://github.com/Sandrajasmin/Sandrajasmin/blob/main/header.png" alt="banner that says Sarah hart Landolt - software developer, artist, designer">
 
 Hi, I'm Sandra!
 I'm a 29-year-old former store manager turned aspiring developer. I have a passion for design and believe that functionality and aesthetics should go hand in hand. When I'm not coding, you can find me learning new things, traveling, or fueling my caffeine addiction.
@@ -10,9 +10,10 @@ This year, I'm excited to challenge myself by creating a visually appealing tic 
 - 🌱 I’m currently learning JavaScript
 - 📫 How to reach me: https://www.linkedin.com/in/sandra-bakken-m%C3%B8ller-s%C3%B8rensen-6331a2ba/
 
-Thanks for visiting my page!
-<img src="https://github.com/Sandrajasmin/Sandrajasmin/blob/main/avatar.png" alt="banner that says Sarah hart Landolt - software developer, artist, designer">
+[![Sandra's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sandrajasmin)](https://github.com/Sandrajasmin/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sandrajasmin)](https://github.com/SandraJasmin/github-readme-stats)
 
+Thanks for visiting my page!
 
 <!--
 **Sandrajasmin/Sandrajasmin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
