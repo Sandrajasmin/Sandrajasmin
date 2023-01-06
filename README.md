@@ -11,6 +11,8 @@ This year, I'm excited to challenge myself by creating a visually appealing tic 
 - 📫 How to reach me: https://www.linkedin.com/in/sandra-bakken-m%C3%B8ller-s%C3%B8rensen-6331a2ba/
 
 Thanks for visiting my page!
+<img src="https://github.com/Sandrajasmin/Sandrajasmin/blob/main/avatar.png" alt="banner that says Sarah hart Landolt - software developer, artist, designer">
+
 
 <!--
 **Sandrajasmin/Sandrajasmin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
